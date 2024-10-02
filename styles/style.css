@@ -12,6 +12,8 @@ body
 	background-color: #d27d2d;
 	background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
 	/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+	min-height: 100vh;
 }
 
 h1
