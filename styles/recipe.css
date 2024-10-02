@@ -29,3 +29,24 @@ h1
 
 	color: black;
 }
+
+.content
+{
+	padding: 2em;
+
+	display: grid;
+	gap: 1em;
+}
+
+.section
+{
+	background-color: rgb(224, 167, 96);
+	padding: 1em;
+
+	border-radius: 18px;
+}
+
+.list
+{
+	padding-left: 3em;
+}
